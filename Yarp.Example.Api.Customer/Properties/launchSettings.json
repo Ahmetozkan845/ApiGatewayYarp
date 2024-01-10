@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Yarp.Example.Api.Customer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50700;http://localhost:50703"
+    }
+  }
+}
